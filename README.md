@@ -14,6 +14,8 @@ yarn add toast-logs
 import { Log } from 'toast-logs'
 ```
 
+## Example
+
 ```js
  Log.success('Success message')
 
