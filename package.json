@@ -1,5 +1,5 @@
 {
-  "name": "custom-logs",
+  "name": "toast-logs",
   "version": "1.0.0",
   "description": " a library to colorify your console logs",
   "main": "lib/index.js",
